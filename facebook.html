@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>BlankTemplate48</title>
+  <script type="text/javascript">
+    window.onload = function()
+    {
+      var url, hdiv = document.getElementById("hiddendivid");
+
+      if (hdiv != null)
+        url = hdiv.innerText || hdiv.textContent;
+
+      if (url)
+      {
+        if (top == self)
+          window.location = url;
+        else
+          top.updateWindowWithContentsOfUrl(self, url);
+      }
+    }
+  </script>
+</head>
+<body>
+  <div id="hiddendivid" style="display:none">https://www.facebook.com/MostafaH.Fan</div>
+</body>
+</html>

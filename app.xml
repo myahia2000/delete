@@ -1,0 +1,140 @@
+<xml>
+  <navigation type="simple" backgroundColor="" backgroundImage="" contentOverlap="" itemsPosition="" textStyle="" textSize="" textFont="" iosStyleNavigation="">
+    <items>
+      <item icon="icon-menu.png" text="tab1" textColor="" selectedTextColor="" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+      <item icon="icon-bookmark.png" text="tab2" textColor="" selectedTextColor="" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+      <item icon="icon-global.png" text="tab3" textColor="" selectedTextColor="" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+      <item icon="icon-edit.png" text="tab4" textColor="" selectedTextColor="" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+    </items>
+  </navigation>
+  <targetplatform simulator="iPhone6">iPhone</targetplatform>
+  <template price="199.99" id="WineBar" scaleWebPagesToBaseResolution="false" topadtype="none" bottomadtype="none" globalLogo="" />
+  <prop id="appname" title="App Name">deleteWineBar1</prop>
+  <prop id="tab1text" title="Tab1 Text">tab1</prop>
+  <prop id="tab1icon" title="Tab1 Icon">cover.png</prop>
+  <prop id="tab2text" title="Tab2 Text">tab2</prop>
+  <prop id="tab2icon" title="Tab2 Icon">index.png</prop>
+  <prop id="tab3text" title="Tab3 Text">tab3</prop>
+  <prop id="tab3icon" title="Tab3 Icon">content.png</prop>
+  <prop id="tab4text" title="Tab4 Text">tab4</prop>
+  <prop id="tab4icon" title="Tab4 Icon">coffee.png</prop>
+  <planname>Basic</planname>
+  <file id="appStyles.xml" newsfile="yes">
+  </file>
+  <page id="index.html" type="iOS7Menu" kind="html" transition="NONE" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="false" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" title="" logo="" shownavbar="yes" openlinksonsametabview="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="about.html" type="aboutus" kind="html" transition="NONE" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="About Us" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="contact.html" type="form" kind="html" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="Contact Us" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="staff.html" type="tintmenu" kind="html" transition="NONE" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="false" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" title="Staff" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="map.html" type="map" kind="native" transition="NONE" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="false" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" title="كيف تصل إلى مكتبى" gmapzoom="100" logo="" interstitialadtype="none" hidetabbaratpush="no">
+    <locations>
+      <location>
+        <name>عيادة جدد حياتك</name>
+        <latitude>30.001412</latitude>
+        <longitude>31.186612</longitude>
+        <imageurl />
+        <ldescription>About this location</ldescription>
+        <ltarget />
+      </location>
+    </locations>
+  </page>
+  <page id="social.html" type="tintmenu" kind="html" transition="NONE" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="false" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" title="Social" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="appshare.html" type="appshare" kind="html" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="false" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" fbappid="" title="Share App" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false">
+    <appdescription>
+    </appdescription>
+    <links>
+      <share_link>http://seattleclouds.com/marketr.aspx?p=5LV4ClTe63jYSacB4bYfi0aYB7%2Fp%2FDnOGOapWic8aAmnAD%2BmDXbYBw%3D%3D</share_link>
+      <iphone>
+      </iphone>
+      <ipad>
+      </ipad>
+      <android>
+      </android>
+      <kindle>
+      </kindle>
+    </links>
+  </page>
+  <page id="news.html" type="rss" kind="html" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="News" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="facebook.html" type="mobilefacebook" kind="html" transition="NONE" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" title="Facebook" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="instagram.html" type="mobile" kind="html" transition="NONE" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" title="Instagram" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="twitter.html" type="mobiletwitter" kind="html" transition="NONE" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" title="Twitter" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="youtube.html" type="mobileyoutube" kind="html" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="mosaic.html" type="mosaic" kind="native" transition="NONE" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" autoCaptionsEnabled="false" title="Gallery" logo="" interstitialadtype="none">
+    <webalbum title="Mosaic Title">
+      <webpicture>
+        <title>Picture1</title>
+        <file>slide-image1.png</file>
+        <caption>
+        </caption>
+      </webpicture>
+      <webpicture>
+        <title>Picture2</title>
+        <file>slide-image2.png</file>
+        <caption>
+        </caption>
+      </webpicture>
+      <webpicture>
+        <title>Picture3</title>
+        <file>slide-image3.png</file>
+        <caption>
+        </caption>
+      </webpicture>
+      <webpicture>
+        <title>Picture4</title>
+        <file>slide-image4.png</file>
+        <caption>
+        </caption>
+      </webpicture>
+    </webalbum>
+  </page>
+  <page id="menu.html" type="tintmenu" kind="html" transition="NONE" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="false" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="productdetails.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <hostedresources>
+  </hostedresources>
+  <page id="106-goals-blockers.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="116-goals-blockers-2.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="121-headache.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="125-goals-blockers-3.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="141-get-rid-of-nervousness.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="185-laziness.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="217-tweets-same-time.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="219-tweets-fb-addiction.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="220-fb-addiction-therapy.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="223-tweets-high-sense.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="63-nlp-in-taraweeh.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="66-personal-dev-is-nonsense.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="67-nothing-new-at-personal-dev.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="68-why-we-need-personal-dev.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="69-nlp-is-magic.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="71-what-beliefs-do.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="72-exams-anxiety.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="73-secondary-gain.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="74-positive-intention.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="75-solution-frame.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="76-the-secret.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="77-secret-of-appreciation.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="78-movies-and-songs-and-programming.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="79-what-if.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="80-interview.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="81-what-is-your-approach.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="82-find-solutions.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="86-how-to.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="91-negative-emotions.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="93-pd-books1.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="96-simple-pers-skill.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="98-media-and-triggers.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="articles-menu.html" type="tintmenu" kind="html" transition="NONE" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="false" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" title="Staff" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="fitness-articles.html" type="pdfreader" kind="native" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" textDirection="rtl">
+    <pdffile>back-to-fitness.pdf</pdffile>
+  </page>
+  <page id="fitnessbook.html" type="aboutus" kind="html" transition="NONE" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="About Us" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="fitnessvideos.html" type="videolist" kind="native" transition="" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="false" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" openPdfInApp="false" openPdfInExternalApp="true" />
+  <page id="idealfitnessmenu.html" type="tintmenu" kind="html" transition="NONE" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="false" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="life-partner.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="life-partner2.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="pshyco-fitness.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="pshyco-fitness2.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="self-confidence.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="shabab-riada-streaming.html" type="audiostream" kind="html" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="video1.html" type="html" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="my-youtube.html" type="mobileyoutube" kind="html" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+</xml>

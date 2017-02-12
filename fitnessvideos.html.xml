@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pageConfig pageType="videolist">
+	<videoitems>
+		<videoitem uid="eghPjLTeEXpS" title="أسرار الوزن المثالى - مقدمة" image_thmb="viedo1.jpg" file_url="http://v.seattleclouds.com/videos/218275510/%d8%a7%d9%94%d8%b3%d8%b1%d8%a7%d8%b1%20%d8%a7%d9%84%d9%88%d8%b2%d9%86%20%d8%a7%d9%84%d9%85%d8%ab%d8%a7%d9%84%d9%8a%20-%2001%20-%20%d9%85%d9%82%d8%af%d9%85%d8%a9%20%d9%88%d8%a7%d9%84%d9%81%d9%83%d8%b1%d8%a9%20%d8%a7%d9%84%d8%a7%d9%94%d8%b3%d8%a7%d8%b3%d9%8a%d8%a9%20-%20from%20YouTube.mp4" file_size="11765160" file_modified_date="9/18/2015 6:36:13 AM"/>
+		<videoitem uid="ltjvsStRKFLu" title="إزاى تخنت ؟؟" image_thmb="viedo1.jpg" file_url="http://v.seattleclouds.com/videos/218275510/%d8%a7%d9%94%d8%b3%d8%b1%d8%a7%d8%b1%20%d8%a7%d9%84%d9%88%d8%b2%d9%86%20%d8%a7%d9%84%d9%85%d8%ab%d8%a7%d9%84%d9%8a%20-%2003%20-%20%d8%a7%d8%b2%d8%a7%d9%8a%20%d8%aa%d8%ae%d9%86%d8%aa%d8%9f!%20-%20from%20YouTube.mp3" file_size="4304176" file_modified_date="9/18/2015 6:47:46 AM"/>
+		<videoitem uid="idasmavkCfdo" title="Your video file title 3" image_thmb="movie_file.png" file_url="http://v.seattleclouds.com/videos/movie_file.mp4" file_size="0" file_modified_date="NA"/>
+	</videoitems>
+</pageConfig>

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>App Share</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<style type="text/css">
+  body {
+    padding: 0px;
+    margin: 0px;
+    background-color: #fff;
+  }
+  .appshare_table {
+    background: #444;
+    text-align: center;
+  }
+  .appshare_appicon
+  {
+    margin:10px;
+    width:100px;
+    height:100px;   
+  }
+  .appshare_apptitle
+  {
+    color:#eaedf1;
+    margin-top: 20px;
+    font: 20px/100% Helvetica, Arial, sans-serif; 
+  }
+  .appshare_button {
+    color: #fff;
+    font-weight: 700;
+    background: #222;
+	  border: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0;
+    font-family: Sans-Serif;
+    font-weight: 200;
+    font-size: 13px;
+    padding: 11px 15px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0 20px 8px 20px;
+    display: block
+  }
+  .appshare_appdescription
+  {
+    padding: 20px;
+    font-size: 13px;
+    font-family: Sans-Serif;
+    font-weight: 500;
+    color: #333;
+  }
+  .button:hover {
+	text-decoration: none;
+  }
+  .button:active {
+	position: relative;
+	top: 1px;
+  }
+  .reflectBelow	{ 
+	-webkit-box-reflect: below 0 -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(0.7, transparent), to(rgba(0,0,0,.6))); 
+  }
+  
+</style>
+<div class="appshare_container">
+    <table id="appheader" class="appshare_table" width="100%">
+      <tbody>
+        <tr>
+          <td valign="top">
+            <img class="appshare_appicon reflectBelow" id="appicon" src="icon@2x.png">
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" style="padding-bottom: 12px;">
+            <div id="appname" class="appshare_apptitle">Application Name</div>
+            <div style="margin-top:15px"><a class="appshare_button" href="appshare://email">Share by Email</a></div>
+            <div style="margin-top:5px"><a class="appshare_button" href="appshare://facebook">Share on Facebook</a></div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div id="appdescription" class="appshare_appdescription">Application Description. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nisl felis, pulvinar ut elit quis, varius varius tortor. Vestibulum eget metus magna.</div>
+</div>
+
+
+
+
+
+
+
+</body>
+</html>
