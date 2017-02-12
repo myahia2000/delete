@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html>
+<head>
+  <title>myTestSlider</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel='stylesheet' type='text/css' href='mobileyoutube.css' id="mobileyoutube">
+    <script type="text/javascript" src="YoutubeReader.js"></script>
+  
+    <script type="text/javascript">
+    var t = 0;
+    var refreshIntervalId;
+    document.addEventListener("DOMContentLoaded", function (event) {
+        var youtubeTable = document.getElementById("youtubeTable");
+        if (youtubeTable != null) {
+            var channelId = document.getElementById('channelId');
+            var playlistId = document.getElementById('playlistId');
+            var username = document.getElementById('username');
+            var appid = document.getElementById('appid');
+            if (username.value != '') {
+                youtubeTable.src = youtubeTable.src + '&username=' + username.value;
+            }
+            if (appid.value != '') {
+                youtubeTable.src = youtubeTable.src + '&appid=' + appid.value;
+            }
+            if (channelId.value != '') {
+                youtubeTable.src = youtubeTable.src + '&channelId=' + channelId.value;
+            }
+            else if (playlistId.value != '') {
+                youtubeTable.src = youtubeTable.src + '&playlistId=' + playlistId.value;
+            }
+        }
+        refreshIntervalId = setInterval(function () {
+            resizeBody();
+        }, 1000);
+
+    });
+    function resizeBody() {
+        t++;
+        var rsstableElem = document.getElementById("youtubeTable");
+        if (rsstableElem != null) {
+            try {
+                var iDoc = rsstableElem.contentWindow.document;
+                if (iDoc != null) {
+                    var ifrH = iDoc.body.offsetHeight;
+                    ifrH += 20;
+                    if (ifrH < 380) {
+                        ifrH = 380;
+                    }
+                    rsstableElem.style.height = ifrH + "px";
+                }
+            }
+            catch (err) {
+                console.log(err);
+            }
+        }
+        if (t > 10) {
+            if (refreshIntervalId)
+                clearInterval(refreshIntervalId);
+        }
+    }
+    </script>
+</head>
+<body onresize="resizeBody()">
+    <div class="youtubeheader">
+        <img id="headerimage" src="newlogo.png">
+    </div>
+    <h1 class="youtube_headertitle" id="headertitle">قناة اليوتيوب</h1>
+    <iframe style="height: 2593px;" onload="YoutubeTableResize();" id="youtubeTable" scrolling="no" src="http://appsmoment.com/youtubeResult.ashx?q=https://www.youtube.com/user/gaddedha&amp;type=channel&amp;feedsmaxitems=10&amp;username=myahia2000&amp;appid=myTestSlider" frameborder="0" width="100%"></iframe>
+    <input id="username" value="" type="hidden">
+    <input id="appid" value="" type="hidden">
+    <input id="searchQ" value="https://www.youtube.com/user/gaddedha" type="hidden">
+    <input id="maxResult" value="10" type="hidden">
+    <input id="requestType" value="channel" type="hidden">
+    <input id="channelId" value="UC_HTxVTZkBib9HMlz-4WLkg" type="hidden">
+    <input id="playlistId" value="" type="hidden">
+
+ </body>
+</html> 

@@ -1,0 +1,64 @@
+.grid .pages,
+.grid .page{
+	background: #fff;
+}
+.grid .toolbar-through .page-content{
+	padding-bottom: 0
+}
+.grid .slider-container{
+	height: 200px;
+	margin: -1px 0 0 0;
+	border-top: none;
+}
+.grid-block{
+	padding-top: 15px;
+	margin: 0;
+	background: rgba(255,255,255,.6);
+}
+.grid-block .gridmenuitems{
+ 	background: transparent;
+	border: none;
+}
+.gridmenuitems::after,
+.gridmenuitems::before{
+	clear: both;
+	content: " ";
+	display: inherit;
+}
+.gridmenuitems li{
+	float: left;
+	width: 33%;
+}
+.gridmenuitems li .item-content{
+	padding: 5px;
+	text-align: center;
+	display: block;
+}
+.gridmenuitems li .item-content .item-media{
+	display: block
+}
+.gridmenuitems li .item-content .item-media .icon{
+	height: 32px;
+	width: 32px;
+}
+.gridmenuitems li .item-content .item-inner{
+	margin: 0;
+	padding: 0;
+	border: none;
+	background: none;
+}
+.gridmenuitems li .item-content .item-inner .item-title{
+	font-size: 14px;
+	text-align: center;
+	width: 100%
+}
+i.icon.icon-bars-red {
+	width: 64px;
+	height: 44px;
+	background-image: url("data:image/svg+xml;charset=utf-8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 42 26' fill='%23FF3B30'><rect width='4' height='4'/><rect x='8' y='1' width='34' height='2'/><rect y='11' width='4' height='4'/><rect x='8' y='12' width='34' height='2'/><rect y='22' width='4' height='4'/><rect x='8' y='23' width='34' height='2'/></svg>");
+	background-size: 21px 13px;
+	background-position: right 10px center;
+}
+.slider-pagination-active{
+	background-color: #FF3B30;
+}

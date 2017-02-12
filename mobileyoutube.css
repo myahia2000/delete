@@ -1,0 +1,72 @@
+/*mobileyoutubecssaddition*/
+body
+{
+    background: #fff;
+    margin:0;
+}
+.youtubeheader
+{
+    width: 100%;
+    margin-bottom: -4px;
+}
+.youtubeheader img 
+{
+    width: 100%;
+}
+.youtube_headertitle
+{
+    font-family: Sans-Serif;
+    font-weight: 100;
+    font-size: 22px;
+    color: #2B2B2B;
+    text-align: center;
+    margin: 0;
+    padding: 14px 10px;
+    background: #c7c7c7;
+    border-bottom: solid 1px #a7a7a7;
+    border-top: solid 1px #8f8f8f;
+}
+
+ .youtube-container{
+            margin: 0;
+            padding: 0 14px;
+        }
+        .youtube-container .itemContent
+        {
+            padding: 14px 0;
+            border-bottom: solid 1px #e8e8e8;
+        }
+        .video-description {
+            font-family: Sans-Serif;
+        }
+
+        .youtube-container .itemContent .itemView .itemtitle,
+        .youtube-container .channel-title,
+        .youtube-container .playlist-title,
+        .video-title
+        {
+            color: #333;
+            font-family: Sans-Serif;
+            font-weight: 700;
+            text-decoration: none;
+            padding: 5px 0px 20px;
+            text-align: left;
+            display: block;
+            font-size: 14px;
+        }
+        .youtube-container .channel-title,
+        .youtube-container .playlist-title{
+            background: #eee;
+            margin: 0 -14px;
+            padding: 20px;
+        }
+        .channel-profile{
+            background: #eee;
+            margin: 0 -14px;
+            padding: 20px 20px 0;
+        }
+        .channel-logo{
+            width: 20%;
+            margin-right: 10px;
+            float: left;
+        }

@@ -1,0 +1,86 @@
+/*thinmenucssaddition*/
+body{margin: 0;}
+
+li > a[selected], li > a:active
+{
+	background-color: blue !important;    
+	background-repeat: no-repeat !important;    
+	background-position: right center !important;    
+	color: #FFFFFF !important;    
+	background-image: url(listArrowSel.png) !important;
+}
+li > a[selected="progress"]
+{
+	background-repeat: no-repeat !important;    
+	background-position: right center !important;
+	background-image: url(loading.gif) !important;
+}
+
+body > .thinmenupanel
+{
+	box-sizing: border-box;    
+	-webkit-box-sizing: border-box;    
+	-moz-box-sizing: border-box;  
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;  
+	padding:0px;
+	width: 100%;
+	margin: 0 auto;
+	-webkit-tap-highlight-color:rgba(0,0,0,0.1);
+}
+
+.thinmenulist
+{    
+	position: relative;    
+	padding: 0;   
+	background: #FFFFFF;     
+	text-align: center;    
+	font-size: 10px;
+	margin:0px 0 0px 0; 
+	list-style:none;
+	background-color:transparent;
+}
+
+.thinmenuitem
+{    
+	position: relative; 
+	font-family: Arial, Helvetica,sans-serif; 
+	padding:0;
+	margin:0;
+	background-color: #e7e7e7;
+	width: 33.33%;
+	height: 33.33%;
+	float: left;
+	border: solid 1px #d9dbda;
+	box-sizing: border-box;
+}
+	
+.thinmenuitem .thinmenutitle
+{
+	padding:0 0 5px 0;
+	display:inline-block; 
+	text-decoration:none; 
+	overflow:hidden; 
+	text-overflow:ellipsis;
+	font-size:10px;
+	color:#385773;
+	text-align:center;
+	font-weight:100;
+	width: 100%;
+}
+
+.thinmenuitem .thinmenuimage
+{
+	vertical-align:middle;
+	max-width:100%;
+	margin: 0 auto;
+	display: block;
+	padding: 25%;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}

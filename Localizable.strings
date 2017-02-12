@@ -1,0 +1,867 @@
+/* 
+
+ <!-- version: 35 -->
+ <!-- date: 2015-01-06 -->
+ 
+ */
+
+//-------------------------
+//All pages
+"Back" = "Back";
+"OK" = "OK";
+"Error" = "Error";
+"Save" = "Save";
+"Cancel" = "Cancel";
+"Done" = "Done";
+"YES" = "YES";
+"NO" = "NO";
+"Yes" = "Yes";
+"No" = "No";
+"Close" = "Close";
+"Confirm" = "Confirm";
+"Warning" = "Warning";
+"Resume" = "Resume";
+"Index" = "Index";
+"Message Successfully Sent!" = "Message Successfully Sent!";
+"Message Failed To Be Sent!" = "Message Failed To Be Sent!";
+"Message Have Been Saved To Drafts!" = "Message Have Been Saved To Drafts!";
+"Cannot send emails from this device!" = "Cannot send emails from this device!";
+"Not available"  = "Not available";
+"No internet connection" = "No internet connection";
+"Posted successfully to Facebook!" = "Posted successfully to Facebook!";
+"Share on Instagram" = "Share on Instagram";
+"Share on Facebook" = "Share on Facebook";
+"Share on Twitter" = "Share on Twitter";
+"Share by Email" = "Share by Email";
+"Send by Email" = "Send by Email";
+"Copy Link" = "Copy Link";
+"Save to Photo Library" = "Save to Photo Library";
+"Delete" = "Delete";
+"Scan" = "Scan";
+"Scanned History" = "Scanned History";
+"Open in Maps" = "Open in Maps";
+"Bad URL" = "Bad URL";
+"Message" = "Message";
+"Info." = "Info.";
+"Info" = "Info";
+"Camera is not available" = "Camera is not available";
+"Get Directions" = "  Get Directions";
+"The option available in iOS 5.0 and later." = "The option available in iOS 5.0 and later.";
+"Open" = "Open";
+"Reset" = "Reset";
+"Create" = "Create";
+"Please rotate to portrait mode." = "Please rotate to portrait mode.";
+"Background" = "Background";
+"Draw" = "Draw";
+"Retake" = "Retake";
+"Use" = "Use";
+"Clear" = "Clear";
+"Rename" = "Rename";
+"SUBMIT" = "SUBMIT";
+"Login" = "Login";
+"Logout" = "Logout";
+"Add" = "Add";
+"Internet connection appears to be offline" = "Internet connection appears to be offline";
+"Internal server error occurred, please try again later" = "Internal server error occurred, please try again later";
+"All" = "All";
+"None" = "None";
+"Undo" = "Undo";
+"Redo" = "Redo";
+"Send" = "Send";
+"The link successfully copied." = "The link successfully copied.";
+
+//-------------------------
+//Barcodescanner
+"Item already exists." = "Item already exists.";
+"Incorrect barcode." = "Incorrect barcode.";
+"Code" = "Code";
+"Desc" = "Desc";
+"Price:" = "Price:";
+"No description found." = "No description found.";
+
+//-------------------------
+//QRcodescanner
+"If you want to scan the QR code please tap on the button \"Scan\"." = "If you want to scan the QR code please tap on the button \"Scan\".";
+"QR Code Scanner" = "QR Code Scanner";
+
+//-------------------------
+//PVC
+"Choose a way to share this" = "Choose a way to share this";
+"Successfully saved to Photo Library!" = "Successfully saved to Photo Library!";
+"Locating..." = "Locating...";
+"No connection" = "No connection";
+"Unable to get locations. Internet connection is not available." = "Unable to get locations. Internet connection is not available.";
+"Unable to find locations source." = "Unable to find locations source.";
+"Sorry, no locations found." = "Sorry, no locations found.";
+"Try Again" = "Try Again";
+"Unable to send request. Internet connection is not available." = "Unable to send request. Internet connection is not available.";
+"Required field" = "Required field";
+"can not be empty" = "can not be empty";
+
+//-------------------------
+//MainC
+"Can not make payments from this device." = "Can not make payments from this device.";
+"Unable to send email from this device. Please configure your email account and try again." = "Unable to send email from this device. Please configure your email account and try again.";
+"iPhone only" = "iPhone only";
+"Phone call operation not supported on iPod Touch" = "Phone call operation not supported on iPod Touch";
+"Phone call operation is supported only on iPhone." = "Phone call operation is supported only on iPhone.";
+"Invalid Lat Long specified" = "Invalid Lat Long specified";
+"File can only be downloaded via a WiFi Network" = "File can only be downloaded via a WiFi Network";
+"Bookmark set" = "Bookmark set ";
+"Bookmark failed" = "Bookmark failed ";
+"This page type is not supported on Tab." = "This page type is not supported on Tab.";
+"Successful pay." = "Successful pay.";
+"Failed pay." = "Failed pay.";
+"The In-App Purchase is NOT setup correctly. Please contact the owner of the app." = "The In-App Purchase is NOT setup correctly. Please contact the owner of the app.";
+"In-App Purchase server is temporarily unavailable, please try again later." = "In-App Purchase server is temporarily unavailable, please try again later.";
+"Invalid Address" = "Invalid Address";
+"Unable to locate specified address. Make sure there is an active internet connection." = "Unable to locate specified address. Make sure there is an active internet connection.";
+"Files" = "Files";
+"The request timed out." = "The request timed out.";
+"Request failed" = "Request failed";
+"This page type is not included in the current application version. Application needs to be updated to support this feature." = "This page type is not included in the current application version. Application needs to be updated to support this feature.";
+"This version of iOS doesn't support adding an event to the calendar." = "This version of iOS doesn't support adding an event to the calendar.";
+"Device doesn't support SMS." = "Device doesn't support SMS.";
+"Device not configured to send Email." = "Device not configured to send Email.";
+
+//-------------------------
+//UpdateC
+"Clear Cache Done." = "Reset Data Done.";
+"Deleting..." = "Deleting...";
+"failed to update. Reason" = "failed to update. Reason";//Example: "Filename.txt failed to update. Reason:File missing."
+"Sync in progress..." = "Sync in progress...";
+"Initializing... (please wait)" = "Initializing... (please wait)";
+"Sync Complete" = "Sync Complete";
+"Sync Error" = "Sync Error";
+"Clear Cache" = "Reset Data";
+"Sync" = "Sync";
+"Loading ... Please wait." = "Loading ... Please wait.";
+
+//-------------------------
+//Dynamic HTML
+"Unable to send request" = "Unable to send request";
+"Please Log In first." = " Please Log In first.";
+"Unable to access data." = "Unable to access data.";
+"Please make sure you have connection to Internet." = "Please make sure you have connection to Internet.";
+
+//-------------------------
+//Shopcard page
+"Failed to add item to cart." = "Failed to add item to cart.";
+"Item successfully added to cart."= "Item successfully added to cart.";
+"Continue" = "Continue";
+"View Order" = "View Order";
+
+//-------------------------
+//Notes page
+"Notes" = "Notes";
+"Edit Note" = "Edit Note";
+"Note" = "Note";
+"DELETE" = "DELETE";
+"SEND BY EMAIL" = "SEND BY EMAIL";
+
+//-------------------------
+//Pick
+"Pick" = " Pick";
+"Take" = " Take";
+"Sign" = " Sign";
+"Choose" = "Choose";
+
+//-------------------------
+//PhotoEffect page
+"Sorry!" = "Sorry!";
+"Cannot access camera or Photo Library now." = "Cannot access camera or Photo Library now.";
+"Choose a way to send this" = "Choose a way to send this";
+"Take a photo from:" = "Take a photo from:";
+"Camera" = "Camera";
+"Photos" = "Photos";
+"Cannot access camera." = "Cannot access camera.";
+"Cannot access Photo Library." = "Cannot access Photo Library.";
+"Apply" = "Apply";
+"Choose..." = "Choose...";
+"Effect" = "Effect";
+"Mask" = "Mask";
+"Uploading picture. Please wait" = "Uploading picture.\n Please wait ...";
+"Photo Library" = "Photo Library";
+"Photo Uploaded" = "Photo Uploaded";
+"FAILED To Upload" = "FAILED To Upload";
+"Please install the Instagram app." = "Please install the Instagram app.";
+"Grey" = "Grey";
+"Color" = "Color";
+"Sepia" = "Sepia";
+
+//-------------------------
+//Mosaic page
+"Refresh" = "Refresh";
+"of" = "of"; //Example: 2 of 10 (second image of ten)
+"I thought to share this image with you" = "I thought to share this image with you"; //Subject of email
+"I believe you might like it" = "I believe you might like it"; //Message of email
+"Image failed to upload!" = "Image failed to upload!";
+"Image uploaded successfully!" = "Image uploaded successfully!";
+"Library" = "Library";
+
+//-------------------------
+//Facebook Rates
+"Empty" = "Empty";
+"Comment can not be empty" = "Comment can not be empty";
+"hate it" = "hate it";
+"don't like it" = "don't like it";
+"it's ok" = "it's ok";
+"it's good" = "it's good";
+"it's great" = "it's great";
+"Connect with Facebook to rate or post comments" = "Connect with Facebook to rate or post comments";
+"Connected to Facebook as" ="Connected to Facebook as";
+"comment(s)" = "comment(s)";
+"%@ comment(s)" = "%@ comment(s)";
+"Retrieving ratings..." = "Retrieving ratings...";
+"NOTE: You can write multiple comments/reviews but only one rating (last submitted one) will count." = "NOTE: You can write multiple comments/reviews but only one rating (last submitted one) will count.";
+"Your comment / review:" = "Your comment / review:";
+"Your rating:" = "Your rating:";
+"review(s) and" = "review(s) and";
+"rating(s)" = "rating(s)";
+"comment(s) and" = "comment(s) and";
+"Rate This" = "Rate This";
+"Post on Facebook" = "Post on Facebook";
+
+//-------------------------
+//Feedback, Location Find page
+"Invalid Data" = "Invalid Data";
+"Unable to locate specified address." = "Unable to locate specified address.";
+"SUBMIT" = "SUBMIT";
+"Find" = "Find";
+"Double tap the map to select a location or search by address, city name, etc..." = "Double tap the map to select a location or search by address, city name, etc...";
+"Use current loc." = "Use current loc.";
+"Use this loc." = "Use this loc.";
+"Show on map" = "Show on map";
+
+//-------------------------
+//Calendar page
+"Calendar" = "Calendar";
+"Add Event" = "Add Event";
+"Edit Event" = "Edit Event";
+"Unexpected error occured, please restart the app" = "Unexpected error occured, please restart the app";
+"Today" = "Today";
+"Day" = "Day";
+"Month" = "Month";
+"New Event" = "New Event";
+"Delete Event" = "Delete Event";
+"This is a repeating event." = "This is a repeating event.";
+"Delete This Event Only" = "Delete This Event Only";
+"Delete All Events" = "Delete All Events";
+"Choose a category" = "Choose a category";
+"Choose an end date after the start date" = "Choose an end date after the start date";
+"Work events for the following days will be created:" = "Work events for the following days will be created:";
+"Confirmation" = "Confirmation";
+"Starts" = "Starts";
+"Ends" = "Ends";
+"Category" = "Category";
+"Case number" = "Case number";
+"Reference" = "Reference";
+"Location" = "Location";
+"Days on" = "Days on";
+"Days off" = "Days off";
+"Title" = "Title";
+"Start" = "Start";
+"End" = "End";
+"All-day" = "All-day";
+
+//-------------------------
+//Email attachment page
+"Your email has been sent successfully" = "Your email has been sent successfully";
+"Your email failed to be sent" = "Your email failed to be sent";
+"Your email has been saved to drafts" = "Your email has been saved to drafts";
+
+//-------------------------
+//Push notification
+"Notification Message" = "Notification Message";
+
+//-------------------------
+//Login page
+"Username exists, but specified password is incorrect." = "Username exists, but specified password is incorrect.";
+"Username does not exist." = "Username does not exist.";
+"Username and password do not exist." = "Username and password do not exist.";
+"Username:" = "Username";
+"Password / Access Code:" = "Password / Access Code";
+"Sign Into your Account" = "Sign Into your Account";
+
+//--------------------------
+// Previewer
+"My apps" = "My apps";
+"About" = "About";
+"Previwer_Preview" = "Preview";
+"previewer_server_unavailable" = "Server temporarily unavailable";
+"previewer_username_or_password_empty" = "Username and password cannot be empty";
+"previewer_try_again" = "Please try again later";
+"previewer_pn_message_too_short" = "Message Too Short";
+"previewer_pn_error_loading_app_data" = "Eror Loading App Data";
+"previewer_pn_delivered" = "Delivered to:";
+"previewer_pn_devices" = "device(s)";
+"previewer_pn_server_error" = "Server Error";
+"previewer_pn_network_error" = "Network Error";
+"previewer_pn_delivery_error" = "Delivery Error";
+"previewer_pn_apn_config_error" = "APN Configuration Error";
+"previewer_pn_apn_config_error_detail" = "APN certificate is missing or invalid";
+"previewer_pn_message_too_big" = "Message is too big";
+"previewer_pn_over_capacity_error" = "Server Overloaded";
+"previewer_pn_queued" = "Scheduled";
+"previewer_pn_queued_detail" = "The message is waiting in queue for delivery";
+"previewer_pn_cloud_messaging_not_allowed_for_app" = "Push Notifications not allowed";
+"previewer_pn_cloud_messaging_not_allowed_for_app_detail" = "The app needs to be added to an active Premium (or higher) plan in order to be able to send Push Notifications";
+"previewer_pn_send_title" = "Send Announcement";
+"previewer_forgot_password_button" = "Forgot password or username?";
+"previewer_forgot_password_title" = "Forgot something?";
+"previewer_forgot_password_email_hint" = "Your email address";
+"previewer_forgot_password_note" = "We will send you an email with your username reminder and instructions on how to reset your password. If you don't find an email from us in your inbox, please check your BULK or SPAM folder.";
+"previewer_forgot_password_user_not_found" = "User with provided email doesn't exist";
+"previewer_forgot_password_invalid_email" = "Please provide a valid email address";
+"previewer_forgot_password_email_sent" = "Email sent!";
+
+//-------------------------
+//SMS page
+"This page type is not supported on your version of iOS." = "This page type is not supported on your version of iOS.";
+"Device not configured to send SMS." = "Device not configured to send SMS.";
+
+//-------------------------
+//Mobile Browser page
+"Open in Safari" = "Open in Safari";
+
+//-------------------------
+//Coupone page
+"You will have access to check in this coupon after %d hours." = "You will have access to check in this coupon after %d hours.";
+"You will be allowed to scan this coupon in %d hours." = "You will be allowed to scan this coupon in %d hours.";
+"QR code has been scanned succesfully." = "QR code has been scanned succesfully.";
+"Scanned QR code does not match coupon's QR code." = "Scanned QR code does not match coupon's QR code.";
+"Show this coupon to the vendor." = "Show this coupon to the vendor.";
+"This coupon expired" = "This coupon expired";
+"This coupon will be valid" = "This coupon will be valid";
+"This page was set up incorrectly." = "This page was set up incorrectly.";
+"Scan complet" = "Scan complet";
+"Check In" = "Check In";
+"Coupon succesfully checked GPS location." = "Coupon succesfully checked GPS location.";
+"Now you have to scan QR code from vendor." = "Now you have to scan QR code from vendor.";
+"GPS Coupon" = "GPS Coupon";
+"Coupon" = "Coupon";
+"Scan" = "Scan";
+"Coupon's scaning failed." = "Coupon's scaning failed.";
+"Coupon succesfully scaned." = "Coupon succesfully scaned.";
+"Do you want to use this coupon?" = "Do you want to use this coupon?";
+"Could not get current location. Try again later." = "Could not get current location. Try again later.";
+"Could not get current location. The network was unavailable or a network error occurred." = "Could not get current location. The network was unavailable or a network error occurred.";
+"Could not get current location. Please make sure that Location Services are enabled in Settings for this app." = "Could not get current location. Please make sure that Location Services are enabled in Settings for this app.";
+"Use this coupon" = "Use this coupon";
+
+//-------------------------
+//Loyalty page
+"Stamp" = "Stamp";
+"Loyalty" = "Loyalty";
+"Get Stamp" = "Get Stamp";
+"Secret Code" = "Secret Code";
+"Please hand your device to the vendor who will stamp your card." = "Please hand your device to the vendor who will stamp your card.";
+"Stamp" = "Stamp";
+"Secret code is wrong." = "Secret code is wrong.";
+"The card has been stamped successfully." = "The card has been stamped successfully.";
+
+//-------------------------
+//MemoGame
+"Some resources are missing.\n Game may not work properly" = "Some resources are missing.\n Game may not work properly";
+"Please add some resources." = "Please add some resources.";
+"Restart" = "Restart";
+"Congratulations!" = "Congratulations!";
+"You have completed the game." = "You have completed the game.";
+"Return to portrait mode to start game." = "Return to portrait mode to start game.";
+
+//-------------------------
+//Puzzle
+"Continue" = "Continue";
+"Preview" = "Preview";
+"Randomize" = "Randomize";
+"puzzle_congrat_title" = "Congratulations.";
+"puzzle_congrat_message" = "You have solved the puzzle.";
+"puzzle_pick_difficulty" = "Pick difficulty";
+"puzzle_next_label" = "Next";
+"puzzle_change_difficulty" = "Difficulty";
+
+//-------------------------
+//VoiceRecordList
+"Record" = "Record";
+"Your list is empty!" = "Your list is empty!";
+"Record stopped because of an audio encoding error." = "Record stopped because of an audio encoding error.";
+"Audio input is not available" = "Audio input is not available";
+"Could not initialize audio recorder." = "Could not initialize audio recorder.";
+
+//-------------------------
+//System strings
+"Results" = "Results";
+"Server unreachable. Please check your internet connection or try later." = "Server unreachable. Please check your internet connection or try later.";
+"Failed to vote. Please try again later." = "Failed to vote. Please try again later.";
+"Server unreachable. Please check your internet connection or try later." = "Server unreachable. Please check your internet connection or try later.";
+
+//-------------------------
+//Login windows
+"Log In" = "LOG IN";
+"Log Out" = "Log Out";
+"Log In As" = "Log In As";
+"Successful!"= "Successful!";
+"Registration" = "Registration";
+"Username too short" = "Username too short";
+"Password too short" = "Password too short";
+"Invalid email" = "Invalid email";
+"First name cannot be empty" = "First name cannot be empty";
+"Please correct the following:" = "Please correct the following:";
+"Do you really want to log out?" = "Do you really want to log out?";
+
+//-------------------------
+//Purchase
+"This is a simulated buy:// schema. On this page user will purchase $PRODUCTID$. After successful transaction user will be redirected to a result page." = "This is a simulated buy:// schema. On this page user will purchase $PRODUCTID$. After successful transaction user will be redirected to a result page.";
+"Verifying\nInApp Purchase" = "Verifying\nInApp Purchase";
+"Failed" = "Failed";
+"Restoring\nInApp Purchases" = "Restoring\nInApp Purchases";
+"Successfully restored." = "Successfully restored.";
+
+//-------------------------
+//Scoreboard
+"Choose your action" = "Choose your action";
+"Clear results" = "Clear results";
+"Share via Facebook" = "Share via Facebook";
+"Share via Twitter" = "Share via Twitter";
+"Sorry" = "Sorry";
+"You can't send a tweet right now, make sure your device has an internet connection and you have at least one Twitter account setup" =
+"You can't send a tweet right now, make sure your device has an internet connection and you have at least one Twitter account setup";
+"Service not available on this version of iOS." = "Service not available on this version of iOS.";
+"You can't send a post right now, make sure your device has an internet connection and you have at least one Facebook account setup" =
+"You can't send a post right now, make sure your device has an internet connection and you have at least one Facebook account setup";
+"Round:" = "Round:";
+"Enter data:" = "Enter data:";
+"Edit" = "Edit";
+
+//-------------------------
+//Login/Register
+"Please enter a valid email address." = "Please enter a valid email address.";
+"Email is invalid." = "Email is invalid.";
+"Your changed password request is received. Please check your email." = "Your changed password request is received. Please check your email.";
+"New email is invalid." = "New email is invalid.";
+"Password mismatch." = "Password mismatch.";
+"Current password is incorrect." = "Current password is incorrect.";
+"Email or password can not be empty." = "Email or password can not be empty.";
+"Credentials successfully changed." = "Credentials successfully changed.";
+"First Name field can not be empty." = "First Name field can not be empty.";
+"Last Name field can not be empty empty." = "Last Name field can not be empty empty.";
+"Password field can not empty." = "Password field can not empty.";
+"You will receive an email upon approval." = "You will receive an email upon approval.";
+"Thank you" = "Thank you";
+"Check your internet connection." = "Check your internet connection.";
+"Failed to get data." = "Failed to get data.";
+"Failed to read data." = "Failed to read data.";
+"User ID or password incorrect." = "User ID or password incorrect.";
+"User ID doesn't exist." = "User ID doesn't exist.";
+"Forgot password!" = "Forgot password!";
+"Register" = "Register";
+"New password" = "New password";
+"Old password" = "Old password";
+"Confirm new password" = "Confirm new password";
+"Update" = "Update";
+"Email" = "Email";
+"Edit Profile" = "Edit Profile";
+"Register" = "Register";
+"First Name" = "First Name";
+"Last Name" = "Last Name";
+
+//---------------------------
+//Magazine store
+"Purchases are disabled" = "Purchases are disabled";
+"Transaction failed." = "Transaction failed.";
+"BUY NOW" = "BUY NOW";
+"PRICE" = "PRICE";
+"Recent" = "Recent";
+"Restore" = "Restore";
+//
+
+//---------------------------
+"Videos title" = "Videos";
+// accessibility label for recording button
+"toggle audio recording" = "toggle audio recording";
+// notification spoken by VoiceOver when timed recording finishes
+"timed recording complete" = "timed recording complete";
+// accessibility hint for display of recorded elapsed time
+"recorded time in minutes and seconds" = "recorded time in minutes and seconds";
+
+//---------------------------
+//Touch Design
+"Get custom background image:" = "Get custom background image:";
+"Cannot load background image." = "Cannot load background image.";
+"Get background from:" = "Get background from:";
+"Custom Images" = "Custom Images";
+"Enter Text" = "Enter Text";
+"Delete Label" = "Delete Label";
+"Are you certain?" = "Are you certain?";
+"Choose group:" = "Choose group:";
+
+//--------------------------
+//Facebook Fan Page
+"Post your question:" = "Post your question:";
+"Login to Facebook" = "Login to Facebook";
+"Post on Page" = "Post on Page";
+"Become a Fan" = "Become a Fan";
+"Please login to view content..." = "Please login to view content...";
+
+//--------------------------
+//Order
+"Order Items" = "Order Items";
+"Order Details" = "Order Details";
+"Delivery Method" = "Delivery Method";
+"Payment Method" = "Payment Method";
+"Card Details" = "Card Details";
+"Card Expiration Date" = "Card Expiration Date";
+"Cardholder's Name" = "Cardholder's Name";
+"Current order contains items from different locations. We can't process the order. Do you want to leave the items only for the location: " = "Current order contains items from different locations. We can't process the order. Do you want to leave the items only for the location: ";
+"Order placed successfully!" = "Order placed successfully!";
+"Unknown error occured" = "Unknown error occured";
+"Empty Order" = "Empty Order";
+"You have not added any items to your order yet." = "You have not added any items to your order yet.";
+"Shipping" = "Shipping";
+"Subtotal" = "Subtotal";
+"Tax" = "Tax";
+"TOTAL" = "TOTAL";
+"Email" = "Email";
+"Phone" = "Phone";
+"Order instructions (optional)" = "Order instructions (optional)";
+"Pick up" = "Pick up";
+"Delivery" = "Delivery";
+"Delivery address" = "Delivery address";
+"Credit Card" = "Credit Card";
+"Cash" = "Cash";
+"Card Number" = "Card Number";
+"Security Code" = "Security Code";
+"Month" = "Month";
+"Year" = "Year";
+"First Name" = "First Name";
+"Last Name" = "Last Name";
+"Pick up" = "Pick up";
+"Delivery" = "Delivery";
+"order_page_placeholder_required" = "Required";
+"order_page_email_required" = "Email is required.";
+"order_page_email_invalid" = "Email address is invalid";
+"order_page_phone_required" = "Phone number is required.";
+"order_page_delivey_method_required" = "Delivery method is required.";
+"order_page_delivey_address_required" = "Delivery address is required.";
+"order_page_card_number_required" = "Card number is required.";
+"order_page_card_invalid" = "The credit card number is invalid.";
+"order_page_security_code_required" = "Card security code is required.";
+"order_page_security_code_invalid" = "The card code is invalid.";
+"order_page_first_name_required" = "First name is required.";
+"order_page_last_name_required" = "Last name is required.";
+"order_page_invalid_date" = "Credit card expiration date is invalid.";
+"order_page_card_expired" = "The credit card has expired.";
+
+//--------------------------
+//Product order
+"Description:" = "Description:";
+"Quantity:" = "Quantity:";
+"Choose a size:" = "Choose a size:";
+"Options" = "Options";
+"Sorry" = "Sorry";
+"Too many options." = "Too many options.";
+"Too few options selected" = "Too few options selected";
+"Item successfully added to cart." = "Item successfully added to cart.";
+"Continue" = "Continue";
+"View Order" = "View Order";
+"There is no any order page in the app" = "There is no any order page in the app";
+"Error!" = "Error!";
+"Products" = "Products";
+"Company Name:" = "Company Name:";
+"Brief:" = "Brief:";
+"Add to Order" = "Add to Order";
+"Place order" = "Place order";
+
+//---------------------------
+//Goal Tracker
+"Congratulations, you have achieved the goal!!!" = "Congratulations, you have achieved the goal!!!";
+"Goal alert time:" = "Goal alert time:";
+"Current progress: %i%%" = "Current progress: %i%%";
+"Do you want to reset a progress?" = "Do you want to reset a progress?";
+"Goal title:" = "Goal title:";
+"Current progress is" = "Current progress is";
+"Please write a goal message." = "Please write a goal message.";
+"High" = "High";
+"Medium" = "Medium";
+"Low" = "Low";
+"Daily" = "Daily";
+"Weekly" = "Weekly";
+"Monthly" = "Monthly";
+"Repeat Interval:" = "Repeat Interval:";
+"Category:" = "Category:";
+
+//---------------------------
+//Category Goal Tracker
+"Edit category name" = "Edit category name";
+"New category name" = "New category name";
+
+//--------------------------
+//MediaList and Dropbox
+"You can't download the file. No Internet connection." = "You can't download the file. No Internet connection.";
+"The files size is more than 50 MB. You can download them only over Wi-Fi connection." = "The files size is more than 50 MB. You can download them only over Wi-Fi connection.";
+"The file size is more than 50 MB. You can download it only over Wi-Fi connection." = "The file size is more than 50 MB. You can download it only over Wi-Fi connection.";
+"Your downloads will be cancleled!" = "Your downloads will be cancleled!";
+"Do you want to cancel the download?" = "Do you want to cancel the download?";
+"Do you want to remove the file: '" = "Do you want to remove the file: '";
+
+//--------------------------
+//Messenger
+"New message" = "New message";
+"SendMessage" = "Send";
+"at some time" = "at some time";
+"Message too long (%d/%d)" = "Message too long (%d/%d)";
+"Sign out" = "Sign out";
+"Sign in" = "Sign in";
+
+//--------------------------
+//User social Sign In
+"Please sign in" = "Please sign in";
+"Sign in with Google" = "Sign in with Google";
+"Sign in with Facebook" = "Sign in with Facebook";
+
+//--------------------------
+//Hosted page resources downloader
+"hprd_downloading_resources_label" = "Downloading resources";
+"hprd_downloading_failed_label" = "Failed to download all resources";
+"hprd_fileDownloadCount" = "%d of %d";
+"hprd_sync_should_be_enabled_info" = "Sync needs to be enabled for this functionality to work.";
+
+
+//--------------------------
+//Quiz
+"Quiz Over!" = "Quiz Over!";
+"Total Points" = "Total Points";
+"Enter Your Name For New HighScore!" = "Enter Your Name For New HighScore!";
+"Finish" = "Finish";
+"Total Passed:" = "Total Passed:";
+"Current points:" = "Current points:";
+"Quit" = "Quit";
+"Next" = "Next";
+"Start Quiz" = "Start Quiz";
+"High Scores" = "High Scores";
+
+// Rss PRO
+"Unable to display RSS feed. RSS source URL can not be empty" = "Unable to display RSS feed. RSS source URL can not be empty";
+"Loading..." = "Loading...";
+
+//--------------------------
+// Application Rate
+"irate_message_title" = "Rate %@";
+
+//--------------------------
+// Slot machine
+"slotmachine_available_in_years" = "Next spin will be available in %d year(s)";
+"slotmachine_available_in_months" = "Next spin will be available in %d month(s)";
+"slotmachine_available_in_weeks" = "Next spin will be available in %d week(s)";
+"slotmachine_available_in_days" = "Next spin will be available in %d day(s)";
+"slotmachine_available_in_hours" = "Next spin will be available in %d hour(s)";
+"slotmachine_available_in_minutes" = "Next spin will be available in %d minute(s)";
+"slotmachine_available_in_seconds" = "Next spin will be available in %d seconds";
+
+//--------------------------
+// Scan Document
+"PDF created." = "PDF created.";
+"%i image(s)" = "%i image(s)";
+"Scan document" = "Scan document";
+"Shoot" = "Shoot";
+"Create PDF" = "Create PDF";
+
+
+//--------------------------
+// Facebook Manager
+"Something went wrong" = "Something went wrong";
+"Session Error" = "Session Error";
+"Your current session is no longer valid. Please log in again." = "Your current session is no longer valid. Please log in again.";
+"Please retry. \n\n If the problem persists contact us and mention this error code: %@" = "Please retry. \n\n If the problem persists contact us and mention this error code: %@";
+"Unable to get the permissions" = "Unable to get the permissions";
+"Permission denied" = "Permission denied";
+"Invalid input params." = "Invalid input params.";
+"Unable to share the photo. Please install the facebook application." = "Unable to share the photo. Please install the facebook application.";
+"facebook_manager_invalid_facebookAppId_message" = "Please, provide a valid Facebook App ID";
+
+//--------------------------
+// BMI Calculator
+"Please fill all fields." = "Please fill all fields.";
+"Height" = "Height";
+"Weight" = "Weight";
+"Here will be BMI description result." = "Here will be BMI description result.";
+"CALCULATE" = "CALCULATE";
+"CLEAR" = "CLEAR";
+
+//-------------------------
+// Location services
+"location_services_disabled_status" = "Location Services are disabled for this application.\nYou can enable them in Settings - Privacy - Location Services.";
+"location_services_restricted_access_status" = "Access to Location Services are restricted at the moment.";
+"location_services_usage_upgrade" = "Update Location Services to Always. You can do this in Settings - Privacy - Location Services.";
+
+//--------------------------
+// Native Audio Player
+"native_audio_player_buffering" = "Buffering...";
+"native_audio_player_failed" = "Failed...";
+"native_audio_player_loading" = "Loading...";
+"native_audio_player_failed_to_load" = "Failed to load";
+"native_audio_player_cannot_open_stream" = "Cannot open the audio stream";
+"native_audio_player_cannot_open_read_stream" = "Cannot read the audio stream";
+"native_audio_player_network_failed" = "Network failed: cannot play the audio stream";
+"native_audio_player_unsupported_format" = "Unsupported format";
+"native_audio_player_network_failed_not_enough_data" = "Network failed: cannot get enough data to play";
+"native_audio_player_unknown_error" = "Unknown error occurred";
+
+//--------------------------
+// Native Tetris
+"native_tetris_best_score" = "Best Score";
+"native_tetris_score" = "Score";
+"native_tetris_level" = "Level";
+"native_tetris_pause" = "Pause";
+"native_tetris_game_over" = "Game Over";
+
+//--------------------------
+// PN Topics
+"No Topics" = "No Topics";
+"Search..." = "Search...";
+"FILTERED BY:" = "FILTERED BY:";
+"Show All" = "Show All";
+
+//--------------------------
+// Image List
+"image_list_email_subject_single" = "Image from %@";
+"image_list_email_subject_list" = "Image list from %@";
+"image_list_email_body" = "Image list: \n";
+"image_list_include_images_prompt" = "Include image(s)?";
+"image_list_camera_unvailable" = "Camera is not available";
+"image_list_library_unvailable" = "Library is not available";
+"image_list_clear_confirm_prompt" = "Clear current list?";
+"image_list_email_failed_hint" = "Your email failed to be sent.\nPossible reason: size of image(s) exceeds 10 (actual %f.2 mb)!";
+"image_list_image_failed_to_open" = "Image could not be opened.";
+"image_list_image_rename_placeholder" = "Image name";
+"image_list_share_sheet_title" = "Action:";
+"image_list_detail_error_saving_image" = "Error in saving image.\nPlease try again.";
+"image_list_detail_image_saved_message" = "Error in saving image.\nPlease try again.";
+
+//--------------------------
+// Health Kit
+"hk_title_body_mass_index" = "Body Mass Index";
+"hk_title_body_fat_percentage" = "Body Fat Percentage";
+"hk_title_height" = "Height";
+"hk_title_body_mass" = "Weight";
+"hk_title_lean_body_mass" = "Lean Body Mass";
+"hk_title_step_count" = "Steps";
+"hk_title_distance_walking_running" = "Walking + Running Distance";
+"hk_title_distance_cycling" ="Cycling Distance";
+"hk_title_basal_energy_burned" = "Resting Calories";
+"hk_title_active_energy_burned" = "Active Calories";
+"hk_title_flights_climbed" = "Flights Climbed";
+"hk_title_heart_rate" = "Heart Rate";
+"hk_title_body_temperature" = "Body Temperature";
+"hk_title_blood_pressure_systolic" = "Blood Pressure Systolic";
+"hk_title_respiratory_rate" = "Respiratory Rate";
+"hk_title_oxygen_saturation" = "Oxygen Saturation";
+"hk_title_peripheral_perfusion_index" = "Peripheral Perfusion Index";
+"hk_title_number_of_times_fallen" = "Number Of Times Fallen";
+"hk_title_electrodermal_activity" = "Electrodermal Activity";
+"hk_title_inhaler_usage" = "Inhaler Usage";
+"hk_title_blood_alcohol_content" = "Blood Alcohol Content";
+"hk_title_blood_pressure" = "Blood Pressure";
+"hk_title_forced_vital_capacity" = "Forced Vital Capacity";
+"hk_title_forced_expiratory_volume1" = "Forced Expiratory Volume, 1 sec";
+"hk_title_peak_expiratory_flow_rate" = "Peak Expiratory Flow Rate";
+"hk_title_dietary_fat_total" = "Total Fat";
+"hk_title_dietary_fat_polyunsaturated" = "Polyunsaturated Fat";
+"hk_title_dietary_fat_monounsaturated" = "Monounsaturated Fat";
+"hk_title_dietary_fat_saturated" = "Saturated Fat";
+"hk_title_dietary_cholesterol" = "Dietary Cholesterol";
+"hk_title_dietary_sodium" = "Sodium";
+"hk_title_dietary_carbohydrates" = "Carbohydrates";
+"hk_title_dietary_fiber" = "Fiber";
+"hk_title_dietary_sugar" = "Sugar";
+"hk_title_dietary_energy_consumed" = "Dietary Calories";
+"hk_title_dietary_protein" = "Protein";
+"hk_title_dietary_vitamin_a" = "Vitamin A";
+"hk_title_dietary_vitamin_b6" = "Vitamin B6";
+"hk_title_dietary_vitamin_b12" = "Vitamin B12";
+"hk_title_dietary_vitamin_c" = "Vitamin C";
+"hk_title_dietary_vitamin_d" = "Vitamin D";
+"hk_title_dietary_vitamin_e" = "Vitamin E";
+"hk_title_dietary_vitamin_k" = "Vitamin K";
+"hk_title_dietary_calcium" = "Calcium";
+"hk_title_dietary_iron" = "Iron";
+"hk_title_dietary_thiamin" = "Thiamin";
+"hk_title_dietary_riboflavin" = "Riboflavin";
+"hk_title_dietary_niacin" = "Niacin";
+"hk_title_dietary_folate" = "Folate";
+"hk_title_dietary_biotin" = "Biotin";
+"hk_title_dietary_pantothenic_acid" = "Pantothenic Acid";
+"hk_title_dietary_phosphorus" = "Phosphorus";
+"hk_title_dietary_iodine" = "Iodine";
+"hk_title_dietary_magnesium" = "Magnesium";
+"hk_title_dietary_zinc" = "Zinc";
+"hk_title_dietary_selenium" = "Selenium";
+"hk_title_dietary_copper" = "Copper";
+"hk_title_dietary_manganese" = "Manganese";
+"hk_title_dietary_chromium" = "Chromium";
+"hk_title_dietary_molybdenum" = "Molybdenum";
+"hk_title_dietary_chloride" = "Chloride";
+"hk_title_dietary_potassium" = "Potassium";
+"hk_title_dietary_caffeine" = "Caffeine";
+
+"hk_respiratory_rate_unit" = "breaths/m";
+"hk_heart_rate_unit" = "beats/m";
+"hk_body_mass_index_unit" = "BMI";
+
+"hk_flights_climbed_unit" = "floor(s)";
+"hk_step_count_unit" = "step(s)";
+"hk_heart_rate_unit" = "bmp";
+
+"hk_degrees_celsius_unit" = "°C";
+"hk_degrees_fahrenheit_unit" = "°F";
+
+"hk_blood_pressure_systolic" = "Systolic";
+"hk_blood_pressure_diastolic" = "Diastolic";
+
+"hk_no_data" = "No data";
+
+"hk_bodyMeasurements" = "Body Measurements";
+"hk_fitness" = "Fitness";
+"hk_vitals" = "Vitals";
+"hk_results" = "Results";
+"hk_nutrition" = "Nutrition";
+
+"hk_device_unavailable" = "HealthKit is not available on this device.";
+"hk_ios_unavailable" = "HealthKit is not available on this version of iOS.";
+
+//--------------------------
+// Fusion charts editor
+"fusioncharts_editor_data_for_year_updated" = "Year %@ updated";
+"fusioncharts_editor_psa_report" = "PSA Report";
+"fusioncharts_editor_psa" = "PSA";
+"fusioncharts_editor_PSA_ng_ml" = "PSA (in ng/mL)";
+"fusioncharts_editor_year" = "Year";
+"fusioncharts_editor_total_psa" = "Total PSA";
+"fusioncharts_editor_free_psa" = "Free PSA";
+"fusioncharts_editor_total_free_psa" = "PSA: total %@ - free %@ (%.2f)";
+"fusioncharts_editor_detail_year" = "Year %@";
+"fusioncharts_editor_free_total_psa_ratio" = "Free/Total PSA ratio: %.2f";
+
+//--------------------------
+// App share
+"app_share_application_link" = "Application Link";
+"app_share_email_subject" = "Application %@";
+
+//--------------------------
+// Announcements
+"Announcements" = "Announcements";
+
+//--------------------------
+// Golf scorecard
+"golf_scorecard_player1_name_title" = "Player1's name";
+"golf_scorecard_player2_name_title" = "Player2's name";
+"golf_scorecard_edit_score_title" = "Edit score";
+"golf_scorecard_sorry_message" = "Sorry";
+"golf_scorecard_twitter_info_message" = "You can't send a tweet right now, make sure your device has an internet connection and you haveat least one Twitter account setup.";
+"golf_scorecard_choose_your_action_title" = "Choose your action";
+"golf_scorecard_clear_results_title" = "Clear results";
+"golf_scorecard_edit_title" = "Edit";
+"golf_scorecard_share_via_facebook_title" = "Share via Facebook";
+"golf_scorecard_share_via_twitter_title" = "Share via Twitter";
+"golf_scorecard_share_via_email_title" = "Share via Email";
+"golf_scorecard_facebook_info_message" = "You can't send a tweet right now, make sure your device has an internet connection and you haveat least one Twitter account setup.";
